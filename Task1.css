@@ -1,0 +1,87 @@
+body{
+    background-color: black;
+       color: white;
+}
+body h1,h2,p,div {
+       text-align: center;
+       
+}
+#myForm 
+{
+    text-align: center;
+}
+body button {
+    margin-top: 3vh;
+    color: blue;
+}
+#myForm1 {
+    text-align: center;
+}
+#myForm1 input:nth-child(2) {
+    margin-left: 4vw;
+    margin-top: 2vh;
+
+}
+#myForm1 input:nth-child(5) {
+    margin-left: 7.9vw;
+    margin-top: 2vh;
+
+}
+#myForm1 input:nth-child(8) {
+    margin-left: 6.9vw;
+    margin-top: 2vh;
+
+}
+
+#myForm2 {
+    text-align: center;
+}
+#myForm2 input{
+    margin-left: 4vw;
+}
+#myForm3 {
+    text-align: center;
+}
+#myForm3 input{
+    margin-left: 4vw;
+}
+#myForm4 {
+    text-align: center;
+}
+#myForm4 input{
+    margin-left: 4vw;
+}
+#myForm5 {
+    text-align: center;
+}
+#myForm5 input{
+    margin-left: 4vw;
+}
+#myForm6 {
+    text-align: center;
+}
+#myForm6 input{
+    margin-left: 4vw;
+}
+.myForm7 {
+    text-align: center;
+}
+.myForm7 input{
+    margin-left: 4vw;
+    margin-top: 2vh;
+}
+.myForm8 {
+    text-align: center;
+}
+.myForm8 input{
+    margin-left: 4vw;
+    margin-top: 2vh;
+}
+.myForm9 {
+    text-align: center;
+}
+.myForm9 input{
+    margin-left: 4vw;
+    margin-top: 2vh;
+}
+
